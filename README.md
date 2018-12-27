@@ -5,14 +5,15 @@
 
 |key|value|
 |----|----|
-|Name|市川 芳大|
-|Furigana|いちかわ　よしひろ|
+|Name|市川 芳大 (Ichikawa Yoshihiro)|
 |Birth|1988/04/27|
 |Location|神奈川県|
 |Education|日本語|
 |Mail|ichikawa.y.ac@gmail.com|
 |Github|[IchikawaYoshihiro](https://github.com/IchikawaYoshihiro)|
 |Qiita|[@ichi_404](https://qiita.com/ichi_404)|
+|SNS|[FaceBook](https://www.facebook.com/people/Yoshihiro-Ichikawa/100004456697600)|
+
 
 ## 趣味
 
